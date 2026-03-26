@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28c27328-ba17-4f99-85bd-763930ce4f72" name="Changes" comment="viikko5">
-      <change afterPath="$PROJECT_DIR$/viikkotehtavat/viikko7.py" afterDir="false" />
+    <list default="true" id="28c27328-ba17-4f99-85bd-763930ce4f72" name="Changes" comment="viikko7">
+      <change afterPath="$PROJECT_DIR$/viikkotehtavat/kertaus26.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viikkotehtavat/viikko4.py" beforeDir="false" afterPath="$PROJECT_DIR$/viikkotehtavat/viikko4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.kertaus26.3.executor": "Run",
     "Python.tehtava1.executor": "Run",
     "Python.testi.executor": "Run",
     "Python.viikko2.executor": "Run",
@@ -92,7 +92,7 @@
       <workItem from="1770808270524" duration="37000" />
       <workItem from="1770808319236" duration="11366000" />
       <workItem from="1772185272449" duration="5318000" />
-      <workItem from="1773826441003" duration="705000" />
+      <workItem from="1773826441003" duration="3874000" />
     </task>
     <task id="LOCAL−00001" summary="testi">
       <option name="closed" value="true" />
@@ -143,7 +143,14 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1772536521037</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="viikko7">
+      <option name="closed" value="true" />
+      <created>1773827412167</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1773827412167</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,15 +163,17 @@
     <MESSAGE value="viikko3" />
     <MESSAGE value="viikko4" />
     <MESSAGE value="viikko5" />
-    <option name="LAST_COMMIT_MESSAGE" value="viikko5" />
+    <MESSAGE value="viikko7" />
+    <option name="LAST_COMMIT_MESSAGE" value="viikko7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tehtavat$viikko7.coverage" NAME="viikko7 Coverage Results" MODIFIED="1773826928954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikkotehtavat" />
+    <SUITE FILE_PATH="coverage/tehtavat$viikko7.coverage" NAME="viikko7 Coverage Results" MODIFIED="1773827354955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikkotehtavat" />
     <SUITE FILE_PATH="coverage/tehtavat$tehtava1.coverage" NAME="tehtava1 Coverage Results" MODIFIED="1770206866168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
     <SUITE FILE_PATH="coverage/tehtavat$testi.coverage" NAME="testi Coverage Results" MODIFIED="1770367089237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko4.coverage" NAME="viikko4 Coverage Results" MODIFIED="1771415542454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikkotehtavat" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko6.coverage" NAME="viikko6 Coverage Results" MODIFIED="1772624794502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikkotehtavat" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko5.coverage" NAME="viikko5 Coverage Results" MODIFIED="1772536476311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikkotehtavat" />
     <SUITE FILE_PATH="coverage/tehtavat$viikko2.coverage" NAME="viikko2 Coverage Results" MODIFIED="1770368943938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikko1" />
+    <SUITE FILE_PATH="coverage/tehtavat$kertaus26_3.coverage" NAME="kertaus26.3 Coverage Results" MODIFIED="1774510825461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/viikkotehtavat" />
   </component>
 </project>
